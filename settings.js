@@ -73,10 +73,10 @@ global.packname = "Neko--nyann..." //ur sticker watermark packname
 global.author = "Satoru Gojo・ショヴィス・滅 𓆩✧𓆪" //ur sticker watermark author
 
 //Bot theme media
-global.thum = fs.readFileSync("./XeonMedia/theme/cheemspic.jpg") //ur thumb pic
-global.log0 = fs.readFileSync("./XeonMedia/theme/cheemspic.jpg") //ur logo pic
-global.err4r = fs.readFileSync("./XeonMedia/theme/cheemspic.jpg") //ur error pic
-global.thumb = fs.readFileSync("./XeonMedia/theme/cheemspic.jpg") //ur thumb pic
+global.thum = fs.readFileSync("./XeonMedia/theme/Raphtalia_Miko.png") //ur thumb pic
+global.log0 = fs.readFileSync("./XeonMedia/theme/Raphtalia_Miko.png") //ur logo pic
+global.err4r = fs.readFileSync("./XeonMedia/theme/Raphtalia_Miko.png") //ur error pic
+global.thumb = fs.readFileSync("./XeonMedia/theme/Raphtalia_Miko.png") //ur thumb pic
 
 //damtabase
 global.premium = ['918777845713'] //ur premium numbers
@@ -133,7 +133,7 @@ global.mess = {
    umpanawal: 5,
    potionawal: 1
 }
-global.thumb = fs.readFileSync('./XeonMedia/theme/cheemspic.jpg')
+global.thumb = fs.readFileSync('./XeonMedia/theme/Raphtalia_Miko.png')
 global.flaming = 'https://www6.flamingtext.com/net-fu/proxy_form.cgi?&imageoutput=true&script=sketch-name&doScale=true&scaleWidth=800&scaleHeight=500&fontsize=100&text='
 global.fluming = 'https://www6.flamingtext.com/net-fu/proxy_form.cgi?&imageoutput=true&script=fluffy-logo&doScale=true&scaleWidth=800&scaleHeight=500&fontsize=100&text='
 global.flarun = 'https://www6.flamingtext.com/net-fu/proxy_form.cgi?&imageoutput=true&script=runner-logo&doScale=true&scaleWidth=800&scaleHeight=500&fontsize=100&text='
